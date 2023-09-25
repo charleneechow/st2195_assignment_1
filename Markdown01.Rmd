@@ -1,0 +1,14 @@
+---
+title: "Markdown01"
+output: html_document
+date: "2023-09-25"
+---
+## R Markdown
+
+listing down integers from 1-10 using for loop R. 
+
+```{r loop}
+for (x in 1:10) {
+  print (x)
+}
+```
